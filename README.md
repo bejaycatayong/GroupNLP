@@ -8,9 +8,9 @@ This repository contains all the source code, models, and comprehensive document
 
 | Role | Name | Contact/GitHub |
 | :--- | :--- | :--- |
-| **Leader** | Andrew Galano | [Optional: Link to GitHub/Email] |
-| Member | Bejay Catayong | [Optional: Link to GitHub/Email] |
-| Member | Ralph Emmanuel Inglesa | [Optional: Link to GitHub/Email] |
+| **Leader** | Andrew Galano | andrew.galano@my.jru.edu |
+| Member | Bejay Catayong | bejay.catayong@my.jru.edu |
+| Member | Ralph Emmanuel Inglesa | ralphemmanuel.inglesa@my.jru.edu |
 
-**Course:** [Insert Course Name/Code, e.g., CS 501: Deep Learning and NLP]
-**Institution/Semester:** [Insert Institution and Semester]
+**Course:** ITC C508 - 402I (Elective 4 : Deep Learning - Natural Language Processing)
+**Institution/Semester:** Jose Rizal University / 4th Year - 1st Semester
