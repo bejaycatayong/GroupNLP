@@ -1,4 +1,4 @@
-# 📚 GroupNLP: Deep Learning and NLP - Final Project Deliverables Repository
+# 📚 Group NLP: Deep Learning and NLP - Final Project Deliverables Repository
 
 **Project Group:** Natural Language Processors (NLP)
 
