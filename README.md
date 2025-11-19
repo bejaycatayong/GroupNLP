@@ -2,7 +2,7 @@
 
 **Project Group:** Natural Language Processors (NLP)
 
-This repository contains all the source code, models, and comprehensive documentation for our final project in the Deep Learning and NLP course. Our project, **[Insert Your Specific Project Name Here, e.g., "Aspect-Based Sentiment Analysis on E-commerce Reviews"]**, aims to **[Concise Statement of the Project's Goal and Methodology, e.g., apply state-of-the-art transformer models to fine-grained sentiment classification]**.
+This repository contains all the source code, models, and comprehensive documentation for our final project in the Deep Learning and NLP course. Our project, **Philippine Financial Market Sentiment Analysis Using FinBERT Model with Fine-Tuning and Automated Hyperparameter Optimization**, aims to **This project will be strategically focused on applying the domain-specific capabilities of FinBERT (a Transformer-based NLP model) to solve critical challenges in financial text analytics**.
 
 ## 👥 Team
 
