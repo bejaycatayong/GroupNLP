@@ -13,4 +13,5 @@ This repository contains all the source code, models, and comprehensive document
 | Member | Ralph Emmanuel Inglesa | ralphemmanuel.inglesa@my.jru.edu |
 
 **Course:** ITC C508 - 402I (Elective 4 : Deep Learning - Natural Language Processing)
+
 **Institution/Semester:** Jose Rizal University / 4th Year - 1st Semester
